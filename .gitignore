@@ -1,0 +1,8 @@
+*.txt
+.vscode/
+.idea/
+migrations/
+*.pyc
+*.toc
+*.seg
+whoosh_index/
